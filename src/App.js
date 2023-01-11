@@ -2,14 +2,30 @@ import './css/reset.css';
 import './css/base.css';
 import './css/main.css';
 
-import vector1 from './cards/vector-1.svg'
-import vector2 from './cards/vector-2.svg'
-import card1 from './cards/card-1.jpeg'
-import card2 from './cards/card-2.jpeg'
-import card3 from './cards/card-3.jpeg'
-import card4 from './cards/card-4.jpeg'
-import card5 from './cards/card-5.jpeg'
-import card6 from './cards/card-6.jpeg'
+import vector1 from './assets/cards/vector-1.svg'
+import vector2 from './assets/cards/vector-2.svg'
+import card1 from './assets/cards/card-1.jpeg'
+import card2 from './assets/cards/card-2.jpeg'
+import card3 from './assets/cards/card-3.jpeg'
+import card4 from './assets/cards/card-4.jpeg'
+import card5 from './assets/cards/card-5.jpeg'
+import card6 from './assets/cards/card-6.jpeg'
+
+import logoSvg from './assets/img/logo.svg'
+import iconFlash from './assets/img/nav-icons/flash.png'
+import iconClothing from './assets/img/nav-icons/clothing.png'
+import iconShoes from './assets/img/nav-icons/shoes.png'
+import iconCase from './assets/img/nav-icons/case.png'
+import iconAcrobat from './assets/img/nav-icons/acrobat.png'
+import iconGift from './assets/img/nav-icons/gift.png'
+import iconDiamond from './assets/img/nav-icons/diamond.png'
+
+import iconHelp from './assets/img/icons/help.svg'
+import iconSearch from './assets/img/icons/search.svg'
+
+import iconBasket from './assets/img/icons/basket.svg'
+import iconPerson from './assets/img/icons/person.svg'
+
 
 function App() {
     return (
@@ -17,27 +33,27 @@ function App() {
             <div className="sidebar">
                 <div className="sidebar-logo">
                     <div className="logo">
-                        <img src="/img/logo.svg" alt="Logo"/>
+                        <img src={logoSvg} alt="Logo"/>
                     </div>
                 </div>
 
                 <nav className="sidebar-nav nav">
                     <h2 className="nav-title">Explore</h2>
                     <ul className="nav-list">
-                        <li><a href="#"><img src="/img/nav-icons/flash.png" alt="New In"/>New In</a></li>
-                        <li><a href="#"><img src="/img/nav-icons/clothing.png" alt="Clothing"/>Clothing</a></li>
-                        <li><a href="#"><img src="/img/nav-icons/shoes.png" alt="Shoes"/>Shoes</a></li>
-                        <li><a href="#"><img src="/img/nav-icons/case.png" alt="Accessories"/>Accessories</a></li>
-                        <li><a href="#"><img src="/img/nav-icons/acrobat.png" alt="Activewear"/>Activewear</a></li>
-                        <li><a href="#"><img src="/img/nav-icons/gift.png" alt="Gifts & Living"/>Gifts & Living</a></li>
-                        <li><a href="#"><img src="/img/nav-icons/diamond.png" alt="Inspiration"/>Inspiration</a></li>
+                        <li><a href="#"><img src={iconFlash} alt="New In"/>New In</a></li>
+                        <li><a href="#"><img src={iconClothing} alt="Clothing"/>Clothing</a></li>
+                        <li><a href="#"><img src={iconShoes} alt="Shoes"/>Shoes</a></li>
+                        <li><a href="#"><img src={iconCase} alt="Accessories"/>Accessories</a></li>
+                        <li><a href="#"><img src={iconAcrobat} alt="Activewear"/>Activewear</a></li>
+                        <li><a href="#"><img src={iconGift} alt="Gifts & Living"/>Gifts & Living</a></li>
+                        <li><a href="#"><img src={iconDiamond} alt="Inspiration"/>Inspiration</a></li>
                     </ul>
 
                 </nav>
 
                 <div className="sidebar-help">
                     <a className="help" href="#">
-                        <img className="help-icon" src="/img/icons/help.svg" alt="help"/>
+                        <img className="help-icon" src={iconHelp} alt="help"/>
                         Help Center
                     </a>
                 </div>
@@ -50,7 +66,7 @@ function App() {
                     <div className="header-search">
                         <form className="search">
                             <label className="search-label">
-                                <img className="search-icon" src="/img/icons/search.svg" alt="Search"/>
+                                <img className="search-icon" src={iconSearch} alt="Search"/>
                                 <input className="search-input" type="text" placeholder="Search store"/>
                             </label>
                         </form>
@@ -65,10 +81,10 @@ function App() {
                                 <li className="nav-header-link-text"><a href="#">manufacturing</a></li>
                                 <li className="nav-header-link-text"><a href="#">packaging</a></li>
                                 <li className="nav-header-link-icon">
-                                    <a href="#"><img src="/img/icons/basket.svg" alt="Cart"/></a>
+                                    <a href="#"><img src={iconBasket} alt="Cart"/></a>
                                 </li>
                                 <li className="nav-header-link-icon">
-                                    <a href="#"><img src="/img/icons/person.svg" alt="Person"/></a>
+                                    <a href="#"><img src={iconPerson} alt="Person"/></a>
                                 </li>
                             </ul>
                         </nav>
