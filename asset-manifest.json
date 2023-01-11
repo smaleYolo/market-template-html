@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/market-template-html/static/css/main.0a7d9b09.css",
-    "main.js": "/market-template-html/static/js/main.6d60e1ce.js",
+    "main.js": "/market-template-html/static/js/main.47dab1e8.js",
     "static/media/vector-2.svg": "/market-template-html/static/media/vector-2.e4f273d2d20e48ae40157cf02fd34489.svg",
     "static/media/card-2.jpeg": "/market-template-html/static/media/card-2.ff948e4c8c88d17bb007.jpeg",
     "static/media/card-1.jpeg": "/market-template-html/static/media/card-1.caa7808aee3ae4be3052.jpeg",
@@ -10,12 +10,17 @@
     "static/media/card-6.jpeg": "/market-template-html/static/media/card-6.9298593391b30e149a8c.jpeg",
     "static/media/vector-1.svg": "/market-template-html/static/media/vector-1.2460df427a234703b51a523eef867eae.svg",
     "static/media/card-5.jpeg": "/market-template-html/static/media/card-5.3138cc576a982a4c4fde.jpeg",
+    "static/media/logo.svg": "/market-template-html/static/media/logo.0e9807cd030fdaf459d1e26329a9641f.svg",
+    "static/media/basket.svg": "/market-template-html/static/media/basket.3116d49e5eb41830d508d6b061d0350d.svg",
     "index.html": "/market-template-html/index.html",
+    "static/media/person.svg": "/market-template-html/static/media/person.a0c7c726f99f5118bcbd2153c4f53958.svg",
+    "static/media/help.svg": "/market-template-html/static/media/help.1e0f2039a4462c814df59800ccacfcf4.svg",
+    "static/media/search.svg": "/market-template-html/static/media/search.4c9d21536c7cbbd274b4ff517f8422bf.svg",
     "main.0a7d9b09.css.map": "/market-template-html/static/css/main.0a7d9b09.css.map",
-    "main.6d60e1ce.js.map": "/market-template-html/static/js/main.6d60e1ce.js.map"
+    "main.47dab1e8.js.map": "/market-template-html/static/js/main.47dab1e8.js.map"
   },
   "entrypoints": [
     "static/css/main.0a7d9b09.css",
-    "static/js/main.6d60e1ce.js"
+    "static/js/main.47dab1e8.js"
   ]
 }
