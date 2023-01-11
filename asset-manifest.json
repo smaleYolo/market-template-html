@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/smaleYolo/market-template-html/static/css/main.0a7d9b09.css",
-    "main.js": "/smaleYolo/market-template-html/static/js/main.a1727606.js",
-    "static/media/vector-2.svg": "/smaleYolo/market-template-html/static/media/vector-2.e4f273d2d20e48ae40157cf02fd34489.svg",
-    "static/media/card-2.jpeg": "/smaleYolo/market-template-html/static/media/card-2.ff948e4c8c88d17bb007.jpeg",
-    "static/media/card-1.jpeg": "/smaleYolo/market-template-html/static/media/card-1.caa7808aee3ae4be3052.jpeg",
-    "static/media/card-3.jpeg": "/smaleYolo/market-template-html/static/media/card-3.fb9ce39cd9f2c83c2ff5.jpeg",
-    "static/media/card-4.jpeg": "/smaleYolo/market-template-html/static/media/card-4.a9b1a7eaf82e879c0a61.jpeg",
-    "static/media/card-6.jpeg": "/smaleYolo/market-template-html/static/media/card-6.9298593391b30e149a8c.jpeg",
-    "static/media/vector-1.svg": "/smaleYolo/market-template-html/static/media/vector-1.2460df427a234703b51a523eef867eae.svg",
-    "static/media/card-5.jpeg": "/smaleYolo/market-template-html/static/media/card-5.3138cc576a982a4c4fde.jpeg",
-    "index.html": "/smaleYolo/market-template-html/index.html",
-    "main.0a7d9b09.css.map": "/smaleYolo/market-template-html/static/css/main.0a7d9b09.css.map",
-    "main.a1727606.js.map": "/smaleYolo/market-template-html/static/js/main.a1727606.js.map"
+    "main.css": "/market-template-html/static/css/main.0a7d9b09.css",
+    "main.js": "/market-template-html/static/js/main.6d60e1ce.js",
+    "static/media/vector-2.svg": "/market-template-html/static/media/vector-2.e4f273d2d20e48ae40157cf02fd34489.svg",
+    "static/media/card-2.jpeg": "/market-template-html/static/media/card-2.ff948e4c8c88d17bb007.jpeg",
+    "static/media/card-1.jpeg": "/market-template-html/static/media/card-1.caa7808aee3ae4be3052.jpeg",
+    "static/media/card-3.jpeg": "/market-template-html/static/media/card-3.fb9ce39cd9f2c83c2ff5.jpeg",
+    "static/media/card-4.jpeg": "/market-template-html/static/media/card-4.a9b1a7eaf82e879c0a61.jpeg",
+    "static/media/card-6.jpeg": "/market-template-html/static/media/card-6.9298593391b30e149a8c.jpeg",
+    "static/media/vector-1.svg": "/market-template-html/static/media/vector-1.2460df427a234703b51a523eef867eae.svg",
+    "static/media/card-5.jpeg": "/market-template-html/static/media/card-5.3138cc576a982a4c4fde.jpeg",
+    "index.html": "/market-template-html/index.html",
+    "main.0a7d9b09.css.map": "/market-template-html/static/css/main.0a7d9b09.css.map",
+    "main.6d60e1ce.js.map": "/market-template-html/static/js/main.6d60e1ce.js.map"
   },
   "entrypoints": [
     "static/css/main.0a7d9b09.css",
-    "static/js/main.a1727606.js"
+    "static/js/main.6d60e1ce.js"
   ]
 }
